@@ -1,0 +1,5 @@
+Wheel-Version: 1.0
+Generator: wininst2wheel
+Root-Is-Purelib: none
+Tag: cp36-cp36m-win_amd64
+
